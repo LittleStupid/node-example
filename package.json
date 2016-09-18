@@ -1,0 +1,23 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rectangle-1.js",
+  "dependencies": {
+    "yargs": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleStupid/node-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleStupid/node-example/issues"
+  },
+  "homepage": "https://github.com/LittleStupid/node-example#readme"
+}
